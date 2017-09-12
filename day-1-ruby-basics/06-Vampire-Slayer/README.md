@@ -1,5 +1,13 @@
 ## Background and Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-1-ruby-basics/06-Vampire-Slayer
+  rake
+  stt
+```
+
 Congratulations, you're now a vampire slayer.
 In this exercise, you will build yourself a guide to how to slay a vampire, as told from a narrator's point of view.
 

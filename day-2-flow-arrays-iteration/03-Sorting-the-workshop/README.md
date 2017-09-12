@@ -1,5 +1,13 @@
 ## Background & Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime:
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-2-flow-arrays-iteration/03-Sorting-the-workshop
+  rake
+  stt
+```
+
 The [`Array` class](http://www.ruby-doc.org/core-2.2.0/Array.html) is one of the two main structures used to store and access data in ruby (the other being [Hash](http://www.ruby-doc.org/core-2.2.0/Hash.html), which we'll see tomorrow).
 
 An array is ordered and each element can be accessed by its **index**. This exercise will help you

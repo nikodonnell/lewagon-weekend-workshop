@@ -1,5 +1,13 @@
 ## Specs
 
+Change to the working directory of the assignment, run the test and open it up in Sublime:
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-2-flow-arrays-iteration/04-Beer-song
+  rake
+  stt
+```
+
 Write a program that prints the lyrics of the song [99 Bottles of Beer](http://www.99-bottles-of-beer.net/lyrics.html).
 
 It will take as an argument the starting number of bottles, given through the command line when executing the program. This program should work this way.

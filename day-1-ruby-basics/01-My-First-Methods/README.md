@@ -1,4 +1,13 @@
 ## Background & Objectives
+
+Change to the working directory of the assignment, run the test and open it up in Sublime
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-1-ruby-basics/01-My-First-Methods
+  rake
+  stt
+```
+
 - Learn to look for the right method on the ruby doc.
 - Get familiar with IRB to experiment new methods and make them yours.
 

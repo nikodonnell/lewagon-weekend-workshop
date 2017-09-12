@@ -1,5 +1,13 @@
 ## Background and Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-1-ruby-basics/05-Guess-Number
+  rake
+  stt
+```
+
 This exercise is a synthesis to validate the core concepts you have seen so far, common to most programming languages:
 
 - Read user input / Print output to user

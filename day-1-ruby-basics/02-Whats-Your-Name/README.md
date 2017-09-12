@@ -1,5 +1,13 @@
 ## Background and Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-1-ruby-basics/02-Whats-Your-Name
+  rake
+  stt
+```
+
 - Validate one more time your understanding of methods and variables.
 - Learn how to use string interpolation.
 - Understand the difference between **single** and **double** quotes.

@@ -1,5 +1,13 @@
 ## Background & Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime:
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-2-flow-arrays-iteration/Spicy-01-Simple-Looping-With-Recursion
+  rake
+  stt
+```
+
 There's a third way to **loop** with a programming language: with [recursion](http://stackoverflow.com/questions/6418017/what-is-ruby-recursion-and-how-does-it-work).
 
 ## Specs

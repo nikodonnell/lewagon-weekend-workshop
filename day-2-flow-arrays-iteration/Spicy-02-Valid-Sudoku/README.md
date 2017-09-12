@@ -1,5 +1,13 @@
 ## Background & Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime:
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-2-flow-arrays-iteration/Spicy-02-Valid-Sudoku
+  rake
+  stt
+```
+
 Now that you've familiar with arrays and enumerables, it's time to take it to the next level.
 Imagine you're doing an online game app and want to code a Sudoku game, the classic puzzle game from Japan.
 

@@ -1,5 +1,13 @@
 ## Background & Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime:
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-2-flow-arrays-iteration/05-FizzBuzz
+  rake
+  stt
+```
+
 When recruiting developers for your team, you often interview people who struggle with basic code. There is a famous article talking about
 [Why Can't Programmers... Program?](http://blog.codinghorror.com/why-cant-programmers-program/) where it talks about the 'FizzBuzz' problem.
 

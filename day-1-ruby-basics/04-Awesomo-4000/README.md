@@ -1,5 +1,13 @@
 ## Background and Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-1-ruby-basics/04-Awesomo-4000
+  rake
+  stt
+```
+
 - A deeper look into methods and how you can use them inside other methods.
 - An introduction to constants and how they differ from variables.
 - Understand how to integrate array elements from different arrays into a single string.
@@ -52,5 +60,3 @@ Again, ask yourself these questions and make sure you can answer all of them:
 
 ## Tips & Resources
 * Each of the following methods should work in a similar way: `#pick_actor`, `#pick_setting`, `#pick_close_one` and `#pick_punchline`. They should take the array defined in their respective constant and return a single random element of that array. Look in the [Array Section](http://ruby-doc.org/core-2.3.0/Array.html) of the Ruby Docs to find
-
-

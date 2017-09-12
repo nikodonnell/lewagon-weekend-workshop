@@ -1,5 +1,13 @@
 ## Background and Objectives
 
+Change to the working directory of the assignment, run the test and open it up in Sublime
+
+```bash
+  cd ~/code/lewagon-weekend-workshop/day-1-ruby-basics/03-String-Additions
+  rake
+  stt
+```
+
 Until now, you could be sure that the inputs in your methods were of the right type.
 In the real world, you will want to make sure that the inputs always behave the way you want.
 
