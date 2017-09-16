@@ -4,11 +4,11 @@ require 'interface'
 
 describe '#random_number' do
   it 'returns an integer' do
-    expect(random_number(1, 20).class).to eq Fixnum
+    expect(random_number.class).to eq Fixnum
   end
 
   it 'returns a number between 1 and 20' do
-    expect((1..20).include?(random_number(1, 20))).to be_truthy
+    expect((1..20).include?(random_number)).to be_truthy
   end
 end
 
