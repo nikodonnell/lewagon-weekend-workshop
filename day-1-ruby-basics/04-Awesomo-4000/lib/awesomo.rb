@@ -22,24 +22,24 @@ PUNCHLINE = ['a doorman who always highfives children of divorce',
               'a millionaire living in a garbage truck']
 
 def plot_generator
-  "#{pick_actor} #{pick_setting} #{pick_closed_one} #{pick_punchline}"
+  # TODO: call the submethods correctly
 end
 
 
 def pick_actor
-  ACTOR.sample
+  # TODO: Your code here
 end
 
 def pick_setting
-  SETTING.sample
+  # TODO: Your code here
 end
 
 def pick_closed_one
-  CLOSED.sample
+  # TODO: Your code here
 end
 
 def pick_punchline
-  PUNCHLINE.sample
+  # TODO: Your code here
 end
 #T0D0: create 4 methods that each return one random element from their respective arrays
 
