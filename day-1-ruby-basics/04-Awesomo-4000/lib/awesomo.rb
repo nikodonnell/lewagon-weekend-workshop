@@ -28,25 +28,21 @@ def plot_generator
 
 end
 
-#T0D0: create 4 methods that each return one random element from their respective arrays
+#4 methods that each return one random element from their respective arrays
 
 def pick_actor
-  # TODO: Your code here
   ACTOR.sample
 end
 
 def pick_setting
-  # TODO: Your code here
   SETTING.sample
 end
 
 def pick_closed_one
-  # TODO: Your code here
   CLOSED.sample
 end
 
 def pick_punchline
-  # TODO: Your code here
   PUNCHLINE.sample
 end
 
